@@ -4,7 +4,7 @@ theory, methods, algorithms, and open-source software for causal inference and
 statistical machine learning. We apply our work to data-driven, real-world
 questions in the biomedical and public health sciences.
 
-Here, you'll find a collection of our open-souce software packages implementing
+Here, you'll find a collection of our open-source software packages implementing
 the methods that we have developed as well as reproducible research workflows
-for each of our projects. Our webpage is under construction but expect to be
-able to read more about our work soon.
+for each of our projects. Our webpage is currently under construction, but you
+should expect to be able to read more about our work soon.
